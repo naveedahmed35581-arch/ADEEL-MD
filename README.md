@@ -121,7 +121,11 @@
 <!-- STARGAZERS -->
 <p align="center">
   <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">
-    <img src="https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=Adeel-Xtech&repo=ADEEL-MD" alt="Stargazers"/>
+    <img src="https://img.shields.io/github/stars/Adeel-Xtech/ADEEL-MD?style=social" alt="Stars"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/network/members">
+    <img src="https://img.shields.io/github/forks/Adeel-Xtech/ADEEL-MD?style=social" alt="Forks"/>
   </a>
 </p>
 
