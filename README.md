@@ -120,9 +120,7 @@
 
 <!-- STARGAZERS -->
 <p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">
-    <img src="https://reporoster.com/stars/dark/Adeel-Xtech/ADEEL-MD" alt="Stargazers"/>
-  </a>
+  <img src="https://api.star-history.com/svg?repos=Adeel-Xtech/ADEEL-MD&type=Date&theme=dark" alt="Star History"/>
 </p>
 
 <!-- FORKERS -->
