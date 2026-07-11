@@ -121,7 +121,7 @@
 <!-- STARGAZERS -->
 <p align="center">
   <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">
-    <img src="http://reporoster.com/stars/dark/Adeel-Xtech/ADEEL-MD" alt="Stargazers"/>
+    <img src="https://reporoster.com/stars/dark/Adeel-Xtech/ADEEL-MD" alt="Stargazers"/>
   </a>
 </p>
 
